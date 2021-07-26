@@ -1,4 +1,4 @@
-Gas prices app ⛽
+Gas prices app for Costa Rica ⛽
 
 ### Installation
 
